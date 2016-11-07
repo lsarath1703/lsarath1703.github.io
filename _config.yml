@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Curious learner
 locale:           en_US
 logo:
 url:		
@@ -10,7 +10,7 @@ owner:
   name: Your Name
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: lsarath1703@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
